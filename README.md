@@ -1,2 +1,2 @@
 # Clinical-Data-of-Patients-Rehabilitation
-The proposed study uses clinical data of patients for rehabilitation from Adhesive Articular Cystitis (AAC) disease. The acquired data contain demographic information and functional evaluation exercise.
+The proposed study uses clinical data of patients for rehabilitation from Adhesive Articular Cystitis (AAC) disease. The acquired data contain demographic information and functional evaluation exercise. It is on goging project, currently we are investigating different research items, such as devlopment of advanced preprocessing pipeline, predictive analytics based on automated learning paradigm, deep learning based regression and classification analysis, etc. 
